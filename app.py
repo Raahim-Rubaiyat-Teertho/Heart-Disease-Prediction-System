@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle as p
 
-st.title('Heart Disease Detection System')
+st.title('Heart Disease Prediction System')
 
 with st.form(key='form1'):
     # Age input
